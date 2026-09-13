@@ -1,0 +1,6 @@
+{
+  "name": "CELTIA Enterprise OS",
+  "description": "Enterprise AI agent operating system for inventory management, invoicing, and stock control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

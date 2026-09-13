@@ -1,11 +1,14 @@
-<div align="center">
+# CELTIA Enterprise OS v2
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Sistema operativo de axentes de intelixencia empresarial para xestión de stock, inventario e facturación.
 
-  <h1>Built with AI Studio</h2>
+## Tecnoloxía
+- **Frontend**: React 18, TypeScript, Tailwind CSS
+- **Backend**: Express + Node.js
+- **IA / Orquestrador**: Suporte para Google Gemini e orquestrador determinista de axentes
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Execución
+```bash
+npm run dev
+```
+O servidor estará dispoñible no porto 3000.
